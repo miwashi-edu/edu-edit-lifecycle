@@ -11,12 +11,12 @@ A simple repository describing the edit lifecycle
 
 ## Starta program
 
-| Mac      | PC |
-| ----------- | ----------- |
+| Mac      | PC | LINUX |  
+| ----------- | ----------- | ----------- |  
 | Paragraph   | Text        |
 
 ## Byta program
 
-| Mac      | PC |
-| ----------- | ----------- |
-|<img src="">|<img src="">|
+| Mac      | PC | LINUX |  
+| ----------- | ----------- | ----------- |  
+|<img src="">|<img width="50" src="./img/alt-tab.png">|Samma som PC/Mac|
